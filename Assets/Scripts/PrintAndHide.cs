@@ -10,7 +10,7 @@ private int randomInt;
     // Start is called before the first frame update
     void Start()
     {
-randomInt = Random.Range(150,250);
+randomInt = Random.Range(150,251);
 Debug.Log(gameObject.name + ':' + i);
 i++;
 
